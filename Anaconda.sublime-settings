@@ -1,5 +1,7 @@
 {
     "anaconda_linter_phantoms": true,
+    "disable_anaconda_completion": true,
+    "display_signatures": false,
     "pep8_ignore": [
         "E501"
     ]
