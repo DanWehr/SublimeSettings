@@ -1,5 +1,8 @@
 {
 	"show_help_dialog": false,
-	"show_keyword_arguments": true,
-	"show_popular_patterns": true
+    "enable_snippets": true,
+    "show_hover": true,
+    "show_function_signatures": true,
+    "show_keyword_arguments": true,
+    "show_popular_patterns": true
 }
